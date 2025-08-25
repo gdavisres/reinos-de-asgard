@@ -23,7 +23,7 @@ public class Main {
         mjolnir.setNome("Mjolnir");
         mjolnir.setTipo("Martelo");
         mjolnir.setMaterial("Uru");
-        mjolnir.setEstado("Impecavel");
+        mjolnir.setEstado("Em posse");
         mjolnir.setDono(thor);
 
         // Relacionando artefato ao poder
